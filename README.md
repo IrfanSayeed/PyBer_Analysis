@@ -33,8 +33,7 @@ High fuel price, Expensive electric vehicle, inflation, grid locks, weather and 
 6. Introduce Rural to Urban and vice versa rids for daily commuter
 7. Incorouge drivers to provide advance schedule to avoid low or high driver counts at certain point. This will help to catch more business and satisfied drivers.
 
-
-
+End of File
 
 
 
