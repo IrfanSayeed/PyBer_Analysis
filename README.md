@@ -33,7 +33,7 @@ High fuel price, Expensive electric vehicle, inflation, grid locks, weather and 
 6. Introduce Rural to Urban and vice versa rids for daily commuter
 7. Incorouge drivers to provide advance schedule to avoid low or high driver counts at certain point. This will help to catch more business and satisfied drivers.
 8. 
-![Result](https://user-images.githubusercontent.com/90229438/152631862-588fc4bf-a9f6-4fb2-b356-57ac4a2e8e9d.PNG)
+
 
 ![ride sharing graph](https://user-images.githubusercontent.com/90229438/152631858-a0273618-330f-424a-8ea3-d74a9a6d1350.PNG)
 
